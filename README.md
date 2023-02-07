@@ -31,7 +31,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeyadba77&show_icons=true&locale=en&layout=compact%22 alt="zeyadba77" /></p>
+
 
 
 

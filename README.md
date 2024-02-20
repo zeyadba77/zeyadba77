@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ziadbahaa91](https://medium.com/@ziadbahaa91)
 
-- 📫 How to reach me **ziadbahaa91@gmail.com**
+- 📫 How to reach me **zeyaadbahaa17@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

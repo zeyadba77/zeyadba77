@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **frontend web devleopment**
 
-- 👯 I’m looking to collaborate on **frontend web development**
+- 👯 I’m looking to collaborate on **frontend web development projects**
 
 - 📝 I regularly write articles on [https://medium.com/@ziadbahaa91](https://medium.com/@ziadbahaa91)
 

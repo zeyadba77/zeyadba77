@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm zeyad bahaa ali</h1>
-<h3 align="center">soc analyst from egypt</h3>
+<h3 align="center">frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyadba77&label=Profile%20views&color=0e75b6&style=flat" alt="zeyadba77" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/zeyadbahaa6" target="blank"><img src="https://img.shields.io/twitter/follow/zeyadbahaa6?logo=twitter&style=for-the-badge" alt="zeyadbahaa6" /></a> </p>
 
-- 🌱 I’m currently learning **network scanning and analysis**
+- 🌱 I’m currently learning **frontend web devleopment**
 
-- 👯 I’m looking to collaborate on **python network tools**
+- 👯 I’m looking to collaborate on **frontend web development**
 
 - 📝 I regularly write articles on [https://medium.com/@ziadbahaa91](https://medium.com/@ziadbahaa91)
 
